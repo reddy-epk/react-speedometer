@@ -1,4 +1,4 @@
-In this project, let's build a **Speedometer** by applying the concepts we have learned till now.
+A react project for building  **Speedometer** with using react-event listener's and react class component.
 
 ### Refer to the image below:
 
